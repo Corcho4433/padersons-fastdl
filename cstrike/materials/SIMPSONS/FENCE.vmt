@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+"$basetexture" "simpsons/fence"
+$surfaceprop "wood_plank" 
+}

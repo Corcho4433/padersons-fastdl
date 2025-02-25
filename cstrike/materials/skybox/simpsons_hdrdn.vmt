@@ -1,0 +1,7 @@
+sky
+{
+"$hdrbaseTexture" "skybox/simpsons_hdrdn"
+"$basetexture" "skybox/simpsonsdn"
+$nofog 1
+$ignorez 1
+}

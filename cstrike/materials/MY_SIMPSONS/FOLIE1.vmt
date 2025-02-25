@@ -1,0 +1,4 @@
+"lightmappedgeneric" {
+    "$basetexture" "my_simpsons\Folie1"
+    "$surfaceprop" "metal"
+}

@@ -1,0 +1,4 @@
+"lightmappedgeneric" {
+    "$basetexture" "my_simpsons\2"
+    "$surfaceprop" "default"
+}
