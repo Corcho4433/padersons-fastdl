@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "nippertextures\nmcastle/duh_light1"
+	"$surfaceprop" "glass"
+}
