@@ -1,0 +1,7 @@
+ "LightmappedGeneric"
+{
+	"$basetexture" "malvinas\Correo_arpon"
+ 	"$decal" 1
+ 	"$decalscale" 0.25
+ 	"$translucent" 1
+  }

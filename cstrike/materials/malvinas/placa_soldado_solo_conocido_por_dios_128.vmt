@@ -1,0 +1,5 @@
+ "LightmappedGeneric"
+{
+	 "$basetexture" "malvinas\placa_soldado_solo_conocido_por_dios_128"
+ 	 "$decalscale" 0.25
+  }
