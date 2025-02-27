@@ -1,7 +1,0 @@
-particles_manifest
-{
-
-	"file"		"!particles/charli_particle_01.pcf"
-
-	
-}
